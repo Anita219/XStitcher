@@ -1,0 +1,9 @@
+.root {-fx-background-color:#ffffff;}
+.label {
+    -fx-text-fill:#000000;
+    -fx-font-weight:bold;
+}
+
+.button {
+    -fx-font:14px "Tahoma";
+}
